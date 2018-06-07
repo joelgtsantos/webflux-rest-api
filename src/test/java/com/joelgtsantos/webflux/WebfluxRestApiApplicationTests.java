@@ -1,4 +1,4 @@
-package com.joelgtsantos;
+package com.joelgtsantos.webflux;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
